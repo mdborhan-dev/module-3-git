@@ -1,0 +1,11 @@
+echo "# module-3-git" >> README.md
+git init
+git add README.mdgit
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mdborhan-dev/module-3-git.git
+git push -u origin main
+
+git remote add origin https://github.com/mdborhan-dev/module-3-git.git
+git branch -M main
+git push -u origin main
